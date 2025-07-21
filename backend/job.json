@@ -1,0 +1,117 @@
+[
+    {
+      "title": "Frontend Developer",
+      "description": "We are hiring a React.js developer with strong JavaScript and CSS skills. Experience with Tailwind and REST APIs is preferred.",
+      "category": "Software Development",
+      "country": "India",
+      "city": "Bangalore",
+      "location": "WeWork RMZ Infinity, Old Madras Road, Bangalore, Karnataka",
+      "fixedSalary": 1200000,
+      "expired": false,
+      "postedBy": "64c0f70db1372c95d1fc79a1"
+    },
+    {
+      "title": "Backend Developer",
+      "description": "Looking for a Node.js developer with experience in Express and MongoDB. Knowledge of authentication and REST API design required.",
+      "category": "Software Development",
+      "country": "India",
+      "city": "Hyderabad",
+      "location": "T-Hub, IIIT Hyderabad Campus, Gachibowli, Hyderabad",
+      "salaryFrom": 1000000,
+      "salaryTo": 1400000,
+      "expired": false,
+      "postedBy": "64c0f70db1372c95d1fc79a2"
+    },
+    {
+      "title": "UI/UX Designer",
+      "description": "Seeking a creative UI/UX designer to create user-friendly mobile and web experiences. Should be skilled in Figma or Adobe XD.",
+      "category": "Design",
+      "country": "India",
+      "city": "Mumbai",
+      "location": "91springboard, Andheri East, Mumbai, Maharashtra",
+      "fixedSalary": 900000,
+      "expired": false,
+      "postedBy": "64c0f70db1372c95d1fc79a3"
+    },
+    {
+      "title": "Digital Marketing Executive",
+      "description": "Join our marketing team to manage social media, SEO, and email campaigns. Prior agency or startup experience is a plus.",
+      "category": "Marketing",
+      "country": "India",
+      "city": "Delhi",
+      "location": "DLF Cyber City, Phase III, Gurgaon, Delhi NCR",
+      "salaryFrom": 700000,
+      "salaryTo": 1000000,
+      "expired": false,
+      "postedBy": "64c0f70db1372c95d1fc79a4"
+    },
+    {
+      "title": "Product Manager",
+      "description": "We are looking for a product manager to drive product strategy and coordinate cross-functional teams in an agile environment.",
+      "category": "Product Management",
+      "country": "India",
+      "city": "Pune",
+      "location": "EON IT Park, Kharadi, Pune, Maharashtra",
+      "fixedSalary": 1500000,
+      "expired": false,
+      "postedBy": "64c0f70db1372c95d1fc79a5"
+    },
+    {
+      "title": "DevOps Engineer",
+      "description": "Hiring a DevOps engineer with knowledge of AWS, CI/CD pipelines, and container orchestration (Docker, Kubernetes).",
+      "category": "Infrastructure",
+      "country": "India",
+      "city": "Chennai",
+      "location": "SP Infocity, Guindy, Chennai, Tamil Nadu",
+      "salaryFrom": 1100000,
+      "salaryTo": 1600000,
+      "expired": false,
+      "postedBy": "64c0f70db1372c95d1fc79a6"
+    },
+    {
+      "title": "Full Stack Developer",
+      "description": "Full stack developer needed with experience in MERN stack. Ability to manage deployments and write scalable code.",
+      "category": "Software Development",
+      "country": "India",
+      "city": "Ahmedabad",
+      "location": "DevX Coworking, SG Highway, Ahmedabad, Gujarat",
+      "fixedSalary": 1300000,
+      "expired": false,
+      "postedBy": "64c0f70db1372c95d1fc79a7"
+    },
+    {
+      "title": "Content Writer",
+      "description": "Content writer needed for blogs, web pages, and press releases. Should have strong command of English grammar and tone.",
+      "category": "Content Writing",
+      "country": "India",
+      "city": "Kolkata",
+      "location": "Salt Lake Sector V, Kolkata, West Bengal",
+      "salaryFrom": 500000,
+      "salaryTo": 800000,
+      "expired": false,
+      "postedBy": "64c0f70db1372c95d1fc79a8"
+    },
+    {
+      "title": "HR Manager",
+      "description": "Seeking an HR manager with strong leadership and hiring skills. Experience in tech recruitment preferred.",
+      "category": "Human Resources",
+      "country": "India",
+      "city": "Jaipur",
+      "location": "Malviya Nagar, Jaipur, Rajasthan",
+      "fixedSalary": 1000000,
+      "expired": false,
+      "postedBy": "64c0f70db1372c95d1fc79a9"
+    },
+    {
+      "title": "Business Analyst",
+      "description": "Business analyst required to work with product and tech teams to define requirements, KPIs, and reporting dashboards.",
+      "category": "Business Analysis",
+      "country": "India",
+      "city": "Noida",
+      "location": "Logix Cyber Park, Sector 62, Noida, Uttar Pradesh",
+      "fixedSalary": 1100000,
+      "expired": false,
+      "postedBy": "64c0f70db1372c95d1fc79b0"
+    }
+  ]
+  
